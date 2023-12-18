@@ -2,7 +2,7 @@
 <p align="center">
 <img src="https://github.com/fufaev/html_lesson_2_1/blob/main/example%20pages/index1.gif" width="150%">
 <img src="https://github.com/fufaev/html_lesson_2_1/blob/main/example%20pages/index2.gif" width="150%">
-</p><hr>
+</p>
 ## Русская усадьба конца XVII-начало XIXвв.
 <p align="center">
 <img src="https://github.com/NataKuptsova/HTML_Learn_BSU_2/blob/master/usadba/plan.jpg" width="150%"></p>
